@@ -1,0 +1,53 @@
+
+
+.header {
+  background-color: #ff5a60;
+  height: auto;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+h2{
+  display: inline-block;
+}
+
+.select{
+  background: #FFF;
+  border: 0;
+  color: #222; 
+  width: 100%;
+}
+.select-box{
+  display: inline-block;
+  margin: 10px 30px;
+  width: 450px;
+}
+.react-dropdown-select-content, .react-dropdown-select-input{
+  height: 20px !important;
+}
+.content-slide{
+  background: #F4F4F4;
+  height: 500px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.content-slide h1{
+  vertical-align: middle;
+  text-align: center;
+}
+.finish-btn{
+  width: 15%;
+  font-size: 16px;
+  margin: 20px;
+  border: 0;
+  border-radius: 5px;
+}
+.footer{
+  text-align: center;
+}
+
+.modal-body{
+  text-align: center;
+  height: 300px;
+  overflow: auto;
+}

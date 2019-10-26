@@ -1,0 +1,21 @@
+{
+  "name": "test-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.11.0",
+    "react-awesome-modal": "^2.0.5",
+    "react-dom": "^16.11.0",
+    "react-dropdown-select": "^3.6.5",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "0.9.x",
+    "react-slick": "^0.25.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
